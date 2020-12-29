@@ -15,4 +15,20 @@ No clues at this time.
 
 ![](https://ramranchreally.rocks/i/o2642t2b.png)
 
-## Day 1 - ???
+## Day 1 - Image
+[incomplete]
+
+Image link shared in Discord. Likely steganography.
+
+Webserver is unresponsive, likely getting absolutely destroyed by a bunch of people trying to view the image.
+
+```
+Pinging saveobama.com [34.222.110.196] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 34.222.110.196:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+```
