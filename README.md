@@ -32,3 +32,7 @@ Request timed out.
 Ping statistics for 34.222.110.196:
     Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
 ```
+
+---
+
+The ARG ended way earlier than I thought it would. They stopped the web server very quickly, before I could load the image, so I have no idea what this clue was. If you hava any info please open an issue or pull request.
