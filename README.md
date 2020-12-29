@@ -8,7 +8,7 @@ Initial page content is a simple white text on black background, reading "save o
 
 ### Debugger
 
-I messed around in the Chrome DevTools Debugger and triggered a page reaction. It loads and plays an audio track at https://saveobama.com/res/12.oga and uses `setInterval` to shake the text in the center of the screen.
+After you wait a randomly generated amount of time, you will start to hear sounds from the page. The sounds are loaded from `https://saveobama.com/res/xxxx.oga`, where `xxxx` is a random number between 0 and 12.
 
 ### Clues
 No clues at this time.
